@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="ATheme.App.Starting" parent="Theme.SplashScreen" >
+
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="postSplashScreenTheme">@style/Theme.Voxcii</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/vixci_logo_1</item>
+        <item name="windowSplashScreenIconBackgroundColor">#FFFFFF</item>
+<!--        <item name="android:windowSplashScreenBrandingImage" tools:targetApi="s">@drawable/mentor_brand</item>-->
+
+
+    </style>
+
+
+
+</resources>
