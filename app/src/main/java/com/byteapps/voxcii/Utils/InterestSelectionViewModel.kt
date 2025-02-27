@@ -8,7 +8,7 @@ class InterestSelectionViewModel:ViewModel() {
     val allInterests = listOf(
         "💻 Coding", "🎮 Gaming", "✈️ Travel", "📸 Photography", "🎵 Music",
         "🏋️ Fitness", "👨‍🍳 Cooking", "📚 Reading", "⚽ Sports", "🎬 Movies",
-        "👨‍💻 Programming", "👗 Fashion", "🎨 Art", "🔬 Science", "🏛️ History",
+        "👨‍💻 Programming", "👗 Fashion", "🎨 Art", "🔬 Science",
         "💰 Finance", "🛠️ DIY & Crafts", "🧘‍♂️ Wellness"
     )
 
