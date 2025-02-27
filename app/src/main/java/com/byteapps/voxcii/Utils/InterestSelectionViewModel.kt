@@ -9,7 +9,7 @@ class InterestSelectionViewModel:ViewModel() {
         "💻 Coding", "🎮 Gaming", "✈️ Travel", "📸 Photography", "🎵 Music",
         "🏋️ Fitness", "👨‍🍳 Cooking", "📚 Reading", "⚽ Sports", "🎬 Movies",
         "👨‍💻 Programming", "👗 Fashion", "🎨 Art", "🔬 Science", "🏛️ History",
-        "💰 Finance", "🐶 Pets", "🛠️ DIY & Crafts", "🧘‍♂️ Wellness"
+        "💰 Finance", "🛠️ DIY & Crafts", "🧘‍♂️ Wellness"
     )
 
     private val _selectedInterests = mutableStateListOf<String>()
